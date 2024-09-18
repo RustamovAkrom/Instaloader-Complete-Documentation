@@ -11,3 +11,6 @@ print(f"[+] Profile info: {username}\n{profile.biography}\nPosts count: {profile
 
 for post in profile.get_posts():
     print(post.url)
+
+
+# Bu kod faqat ishlatib korish uchun...
